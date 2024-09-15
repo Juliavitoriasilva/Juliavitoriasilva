@@ -18,3 +18,4 @@
 ![Power BI](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=PowerBi&labelColor=0D1117)&nbsp;
 ![html](https://img.shields.io/badge/-html-EEAD2D?style=for-the-badge&logo=hatml&labelColor=0D1117)&nbsp;
 ![PacoteOffice](https://img.shields.io/badge/-PacoteOffice-a20202?style=for-the-badge&logo=PacoteOffice&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-1C2842?style=for-the-badge&logo=hatml&labelColor=04F77)&nbsp;
